@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 
+subtitle: Researcher at University of Milan-Bicocca
 
 profile:
   align: left
