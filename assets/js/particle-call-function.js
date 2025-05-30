@@ -17,8 +17,8 @@ document.addEventListener("DOMContentLoaded", function () {
             particles.color.value = '#ffffff';
             particles.line_linked.color = '#ffffff';
         } else {
-            particles.color.value = '#b71c1c';
-            particles.line_linked.color = '#b71c1c';
+            particles.color.value = '#028ba8';
+            particles.line_linked.color = '#00a7c1';
         }
   
         // Refresh particles.js settings
