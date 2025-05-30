@@ -36,5 +36,6 @@ latest_posts:
 #Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 ---
 
-Hey! I’m Giorgio, a researcher specializing in AI and geometry processing,
+Hey! 
+I’m Giorgio, a researcher specializing in AI and geometry processing,
 focused on bridging theoretical advancements to real-world applications.
