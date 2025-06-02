@@ -37,14 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "Bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "post-a-post-with-plotly-js",
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -407,7 +400,12 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-here-i-am",
+      },{id: "books-the-wind-knows-my-name",
+          title: 'The Wind Knows My Name.',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/The_wind_knows/";
+            },},{id: "books-here-i-am",
           title: 'Here I am',
           description: "",
           section: "Books",handler: () => {
