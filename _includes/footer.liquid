@@ -13,12 +13,13 @@
 
 {% if site.footer_fixed %}
   <footer class="fixed-bottom" role="contentinfo">
+
     <div class="container mt-0">
       {{ footer_contents }}
     </div>
   </footer>
 {% else %}
-  <footer class="sticky-bottom mt-5" role="contentinfo">
+  <footer class="sticky-bottom mt-5" role="contentinfo" style="background-color: #00445e; color: white;">
     {% if site.newsletter.enabled %}
       {% include newsletter.liquid %}
     {% endif %}
