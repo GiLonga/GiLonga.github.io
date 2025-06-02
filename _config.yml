@@ -196,7 +196,6 @@ exclude:
   - readme_preview/
   - vendor
   - posts/
-  - blog.md
 keep_files:
   - CNAME
   - .nojekyll

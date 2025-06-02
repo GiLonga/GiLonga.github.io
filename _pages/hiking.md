@@ -1,6 +1,6 @@
 ---
-layout: hiking-stories
-title: Hiking
+layout: book-shelf
+title: Outdoor
 permalink: /hiking/
 nav: false
 collection: hiking

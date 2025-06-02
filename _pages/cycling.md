@@ -1,6 +1,6 @@
 ---
-layout: cycling-stories
-title: Cycling
+layout: book-shelf
+title: Outdoor
 permalink: /cycling/
 nav: false
 collection: cycling
