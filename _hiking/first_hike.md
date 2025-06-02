@@ -8,4 +8,4 @@ stars: 5
 status: Finished
 ---
 
-Nice cold night, too much snow. 
+Nice cold night, too much snow.

@@ -30,6 +30,15 @@
       "endDate": "2025-09-01",
       "summary": "Specializing in geometry processing and AI applied to the 3D domain.",
       "highlights": ["Geometry"]
+    },
+    {
+      "name": "TXT E-Tech Milan, Italy",
+      "position": "Research and Development Engineer",
+      "url": "https://www.txtgroup.com/",
+      "startDate": "2023-07-01",
+      "endDate": "2024-02-01",
+      "summary": "I am a key contributor to the ARTO (Automated Robotics for Testing Optimization) project, specializing in Computer Vision and Robotics.",
+      "highlights": ["Computer Vision and Robotics"]
     }
   ],
   "volunteer": [
@@ -50,7 +59,7 @@
       "area": "Mathematical Engineering",
       "studyType": "Master's Degree",
       "startDate": "2021-09-01",
-      "endDate": "2024-03-01",
+      "endDate": "2024-03-01"
     }
   ],
   "awards": [
@@ -154,12 +163,12 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
-    }
+    },
     {
       "language": "Spanish",
       "fluency": "Fluent",
       "icon": ""
-    }
+    },
     {
       "language": "German",
       "fluency": "Basic",
