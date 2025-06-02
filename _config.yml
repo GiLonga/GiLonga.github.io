@@ -150,6 +150,10 @@ collections:
     output: true
   projects:
     output: true
+  hiking:
+    output: true
+  cycling:
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -192,6 +196,7 @@ exclude:
   - readme_preview/
   - vendor
   - posts/
+  - blog.md
 keep_files:
   - CNAME
   - .nojekyll
