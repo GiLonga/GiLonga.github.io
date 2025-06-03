@@ -36,11 +36,11 @@ announcements:
 #Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 ---
 
-# Hey there!
+## Hey there!
 
 I’m Giorgio, driven by curiosity, shaped as a mathematical engineer, and currently a [researcher](https://www.unimib.it/giorgio-longari) at the Department of Informatic, Systems, and Communications at the University of Milano-Bicocca.
 
 My reserch focuses on **geometry processing**, **computer vision** and **machine learning**, with real world applications, particularly in the medical field.
-II’m part of the DigAir research group, working under the supervision of Prof. [Simone Melzi](https://sites.google.com/site/melzismn).
+I’m part of the DigAir research group, working under the supervision of Prof. [Simone Melzi](https://sites.google.com/site/melzismn).
 
-I also maintain active collaborations with academic institutions such as [UC Santa Barbara](https://gi.ece.ucsb.edu/) and [University of Verona](https://www.dimi.univr.it/?lang=en), as well as with Research Hospitals like [IRCSS Humanitas](https://www.hunimed.eu/).
+I also maintain active collaborations with academic institutions such as [UC Santa Barbara](https://gi.ece.ucsb.edu/) and [University of Verona](https://www.dimi.univr.it/?lang=en), as well as with Research Hospitals like [IRCSS Humanitas](https://www.hunimed.eu/) and [IRCSS E. Medea](https://emedea.it/medea/en/research/topics/cesne-neuroimaging-lab).
