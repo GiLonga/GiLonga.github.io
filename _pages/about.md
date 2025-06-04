@@ -37,7 +37,7 @@ announcements:
 ---
 
 **Hey there!** This is my personal page, I’m Giorgio Longari.  
-I graduated in Mathematical Engineering at Technical University of Milan (2024), and currently I'm a [researcher](https://www.unimib.it/giorgio-longari) at the Department of Informatic, Systems, and Communications at the University of Milano-Bicocca.
+I graduated in Mathematical Engineering at Polytechnic University of Milan (2024), and currently I'm a [researcher](https://www.unimib.it/giorgio-longari) at the Department of Informatic, Systems, and Communications at the University of Milano-Bicocca.
 
 My reserch focuses on **Geometry Processing**, **Computer Vision** and **Machine Learning**, with real world applications, particularly in the medical field.
 I’m part of the DigAir research group, working under the supervision of Prof. [Simone Melzi](https://sites.google.com/site/melzismn).
