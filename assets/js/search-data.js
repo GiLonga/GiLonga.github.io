@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "Publications",
-          description: "Here listed all my publications.",
+          description: "Here are listed all my publications.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -413,7 +413,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-geomfum",
           title: 'GeomFum',
-          description: "Geometry processing with functional maps.",
+          description: "A Modular Library for Correspondence Learning with Functional Maps",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{
