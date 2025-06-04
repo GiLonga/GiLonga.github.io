@@ -4,7 +4,7 @@ title: GeomFum
 description: A Modular Library for Correspondence Learning with Functional Maps
 img: assets/img/geomfumlogo.jpg
 importance: 1
-category: open source library
+category: work
 related_publications: true
 ---
 
