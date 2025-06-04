@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Looking for a PhD opportunity
+subtitle: "<strong>Looking for a PhD opportunity</strong>"
 
 profile:
   align: left
@@ -38,9 +38,14 @@ announcements:
 
 ## Hey there!
 
-I’m Giorgio, driven by curiosity, shaped as a mathematical engineer, and currently a [researcher](https://www.unimib.it/giorgio-longari) at the Department of Informatic, Systems, and Communications at the University of Milano-Bicocca.
+I’m Giorgio, driven by curiosity, 
+I graduated in Mathematical Engineering at Technical University of Milan (2024), and currently I'm a [researcher](https://www.unimib.it/giorgio-longari) at the Department of Informatic, Systems, and Communications at the University of Milano-Bicocca.
 
-My reserch focuses on **geometry processing**, **computer vision** and **machine learning**, with real world applications, particularly in the medical field.
+My reserch focuses on **Geometry Processing**, **Computer Vision** and **Machine Learning**, with real world applications, particularly in the medical field.
 I’m part of the DigAir research group, working under the supervision of Prof. [Simone Melzi](https://sites.google.com/site/melzismn).
 
 I also maintain active collaborations with academic institutions such as [UC Santa Barbara](https://gi.ece.ucsb.edu/) and [University of Verona](https://www.dimi.univr.it/?lang=en), as well as with Research Hospitals like [IRCSS Humanitas](https://www.hunimed.eu/) and [IRCSS E. Medea](https://emedea.it/medea/en/research/topics/cesne-neuroimaging-lab).
+
+**Last News:**
+After my research experience, I decided to give myself the chance to further study and explore Geometric Deep Learning and Spectral Shape Analysis, with the goal of contributing to this community through my work.
+For this reason I'm **Looking for a PhD opportunity!**
