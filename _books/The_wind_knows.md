@@ -9,7 +9,7 @@ categories: Novel Historical
 tags: top-100
 released: 2023
 stars: 3
-status: reading
+status: Reading
 ---
 
 The lives of a Jewish boy escaping Nazi-occupied Europe and a mother and daughter fleeing twenty-first-century El Salvador intersect in this ambitious, intricate novel about war and immigration
