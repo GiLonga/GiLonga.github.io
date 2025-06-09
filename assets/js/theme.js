@@ -4,8 +4,8 @@
 let toggleThemeSetting = () => {
   let themeSetting = determineThemeSetting();
   if (themeSetting == "system") {
-    pJSDom[0].pJS.particles.color.value = '#b71c1c';
-    pJSDom[0].pJS.particles.line_linked.color = '#b71c1c';
+    pJSDom[0].pJS.particles.color.value = '#028ba8';
+    pJSDom[0].pJS.particles.line_linked.color = '#00a7c1';
     pJSDom[0].pJS.fn.particlesRefresh();
     setThemeSetting("light");
   } else if (themeSetting == "light") {
@@ -22,8 +22,8 @@ let toggleThemeSetting = () => {
         pJSDom[0].pJS.particles.color.value = '#ffffff';
         pJSDom[0].pJS.particles.line_linked.color = '#ffffff';
       } else {
-        pJSDom[0].pJS.particles.color.value = '#b71c1c';
-        pJSDom[0].pJS.particles.line_linked.color = '#b71c1c';
+        pJSDom[0].pJS.particles.color.value = '#028ba8';
+        pJSDom[0].pJS.particles.line_linked.color = '#00a7c1';
       }
       pJSDom[0].pJS.fn.particlesRefresh();
     }
