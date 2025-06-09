@@ -407,6 +407,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "hiking-laghi-gemelli",
+          title: 'Laghi Gemelli',
+          description: "",
+          section: "Hiking",handler: () => {
+              window.location.href = "/hiking/Laghi_Gemelli/";
+            },},{id: "hiking-sev",
+          title: 'SEV',
+          description: "",
+          section: "Hiking",handler: () => {
+              window.location.href = "/hiking/SEV/";
             },},{id: "hiking-anghileri-rusconi",
           title: 'Anghileri-Rusconi',
           description: "",
