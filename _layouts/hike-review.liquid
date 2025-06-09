@@ -145,10 +145,11 @@ layout: default
         {% endif %}
       </figure>
       <br class="mobile-break" clear="right">
-      <h4>
-        {% if page.start %} Start Date: {{ page.start | date: '%-d %B %Y' }}. {% endif %}
-        {% if page.end %} End Date: {{ page.end | date: '%-d %B %Y' }}. {% endif %}
-      </h4>
+      <h5>
+        {% if page.start %} Starting point: {{ page.start | date: '%-d %B %Y' }}. {% endif %}
+        {% if page.elevation %} Elevation: {{ page.elevation | date: '%-d %B %Y' }}. {% endif %}
+        {% if page.time %} Time: {{ page.time | date: '%-d %B %Y' }}. {% endif %}
+      </h5>
       {{ content }}
     {% endif %}
   </article>

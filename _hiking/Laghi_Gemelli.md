@@ -4,9 +4,10 @@ title: Laghi Gemelli
 cover: assets/img/hik_covers/Twin_Lakes.jpg
 tags: top-100
 released: 2025
-start: Roncobello 
+start: Baite di Mezzeno 
 elevation: 700
 stars: 5
+time: 2.5 hours
 status: Finished
 ---
 
