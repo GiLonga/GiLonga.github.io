@@ -392,7 +392,12 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-wind-knows-my-name",
+      },{id: "books-il-magico-studio-fotografico-di-hirasaka",
+          title: 'Il magico studio fotografico di Hirasaka',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Hiraska/";
+            },},{id: "books-the-wind-knows-my-name",
           title: 'The Wind Knows My Name.',
           description: "",
           section: "Books",handler: () => {
