@@ -5,10 +5,10 @@
     "image": "",
     "email": "giorgio.longari1@gmail.com",
     "url": "https://gilonga.github.io/",
-    "summary": "Aresearcher specializing in AI and Geometry Processing, focused on bridging theoretical advancements to real-world applications.",
+    "summary": "A researcher specializing in AI and Geometry Processing, focused on bridging theoretical advancements to real-world applications.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
+      "address": "",
+      "postalCode": "",
       "city": "Milan",
       "countryCode": "IT",
       "region": "Lombardy"
@@ -21,7 +21,7 @@
       "url": "https://www.unimib.it/giorgio-longari",
       "startDate": "2024-03-01",
       "endDate": "2025-09-01",
-      "summary": "Specializing in geometry processing and AI applied to the 3D domain.",
+      "summary": "I am part of DIGAIR team led by Simone Melzi. I work on geometry processing, 3D shape analysis, and artificial intelligence, also applied to medical data",
       "highlights": ["Geometry"]
     },
     {
@@ -41,7 +41,7 @@
       "position": "Ambulance Driver",
       "startDate": "2019-01-01",
       "endDate": "2024-01-01",
-      "summary": "First aid rescuer and, for the past two years, also an ambulance driver for emergency rescue."    
+      "summary": "Volunteering as a certified first aid responder, actively participating in emergency medical services. For the past two years, also serving as an ambulance driver in urgent response situations."    
     }
   ],
   "education": [
@@ -76,7 +76,6 @@
       "url": "https://www.polimi.it/",
       "area": "Mathematical Engineering",
       "studyType": "Bachelor's Degree",
-      "startDate": "2016-09-01",
       "endDate": "2021-07-01"
     }
   ],
