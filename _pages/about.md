@@ -44,5 +44,5 @@ I’m part of the DigAir research group, working under the supervision of Prof. 
 
 I also maintain active collaborations with academic institutions such as [UC Santa Barbara](https://gi.ece.ucsb.edu/) and [University of Verona](https://www.dimi.univr.it/?lang=en), as well as with Research Hospitals like [IRCSS Humanitas](https://www.hunimed.eu/) and [IRCSS E. Medea](https://emedea.it/medea/en/research/topics/cesne-neuroimaging-lab).
 
-After my research experience, I decided to give myself the chance to further study and explore Geometric Deep Learning and Spectral Shape Analysis, with the goal of contributing to this community through my work.  
+After my research experience, I decided to give myself the chance to further study and explore Geometric Deep Learning and Shape Analysis, with the goal of contributing to this community through my work.  
 For this reason I'm **Looking for a PhD opportunity!**
