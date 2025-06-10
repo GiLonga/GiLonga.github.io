@@ -1,5 +1,5 @@
 ---
-layout: book-shelf
+layout: hike-shelf
 title: Outdoor
 permalink: /hiking/
 nav: false
