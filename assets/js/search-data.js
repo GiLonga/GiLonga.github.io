@@ -397,6 +397,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Hiraska/";
+            },},{id: "books-the-year-of-the-hare",
+          title: 'The Year of the Hare',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/TheYearoftheHare/";
             },},{id: "books-the-wind-knows-my-name",
           title: 'The Wind Knows My Name.',
           description: "",
