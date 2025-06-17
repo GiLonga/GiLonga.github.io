@@ -7,11 +7,9 @@ olid: OL7861617M # use Open Library ID to fetch cover (if no `cover` is provided
 isbn: 0720612772 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: bestselling comic novel 
 tags: top-100
-started: 2025-08-23
+started: 2025-06-17
 finished: 2025-09-07
 released: 1975
-stars: 5
-goodreads_review: 6318556633
 status: queued
 ---
 
