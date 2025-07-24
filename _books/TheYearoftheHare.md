@@ -10,7 +10,7 @@ tags: top-100
 started: 2025-06-17
 finished: 2025-09-07
 released: 1975
-status: queued
+status: Finished
 ---
 
 While out on assignment, a journalist hits a hare with his car. This small incident becomes life-changing: he decides to quit his job, leave his wife, sell his possessions, and spend a year wandering the wilds of Finland—with the bunny as his boon companion.

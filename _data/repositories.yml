@@ -4,7 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - luisfpereira/geomfum
+  - DiG-AIR/geomfum
   - GiLonga/DeformationTMI
   - nlambriICH/tmi-isocenter
   - LorenzoOlearo/blending-diffusion-models
