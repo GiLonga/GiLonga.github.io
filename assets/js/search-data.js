@@ -417,11 +417,21 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "hiking-bivacco-clusone",
+          title: 'Bivacco Clusone',
+          description: "",
+          section: "Hiking",handler: () => {
+              window.location.href = "/hiking/Biv_Clusone/";
             },},{id: "hiking-laghi-gemelli",
           title: 'Laghi Gemelli',
           description: "",
           section: "Hiking",handler: () => {
               window.location.href = "/hiking/Laghi_Gemelli/";
+            },},{id: "hiking-predarossa",
+          title: 'Predarossa',
+          description: "",
+          section: "Hiking",handler: () => {
+              window.location.href = "/hiking/Predarossa/";
             },},{id: "hiking-sev",
           title: 'SEV',
           description: "",
