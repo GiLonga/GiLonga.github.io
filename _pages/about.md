@@ -37,12 +37,13 @@ announcements:
 ---
 
 **Hey there!** This is my personal page, I’m Giorgio Longari.  
-I graduated in Mathematical Engineering at Polytechnic University of Milan (2024), and currently I'm a [researcher](https://www.unimib.it/giorgio-longari) at the Department of Informatic, Systems, and Communications at the University of Milano-Bicocca.
+I am a Phd student at Technische Universität Wien, under the supervision of [Alice Barbora Tumpach](https://geometricgreenlearning.com/) and [Robert Sablatnig](https://cvl.tuwien.ac.at/staff/robert-sablatnig/) . Previously I was a [researcher](https://www.unimib.it/giorgio-longari) at the Department of Informatic, Systems, and Communications at the University of Milano-Bicocca. I hold both a Master’s and a Bachelor’s degree in Mathematical Engineering from the Polytechnic University of Milan.
 
 My reserch focuses on **Geometry Processing**, **Computer Vision** and **Machine Learning**, with real world applications, particularly in the medical field.
-I’m part of the DigAir research group, working under the supervision of Prof. [Simone Melzi](https://sites.google.com/site/melzismn).
+The topic of my PhD research is Geometric Green Learing on Lie Groups and Quotient Spaces. 
+I was part of the [3DiG](https://3diglab.github.io/) research group, working under the supervision of Prof. [Simone Melzi](https://sites.google.com/site/melzismn).
 
 I also maintain active collaborations with academic institutions such as [UC Santa Barbara](https://gi.ece.ucsb.edu/) and [University of Verona](https://www.dimi.univr.it/?lang=en), as well as with Research Hospitals like [IRCSS Humanitas](https://www.hunimed.eu/) and [IRCSS E. Medea](https://emedea.it/medea/en/research/topics/cesne-neuroimaging-lab).
 
-After my research experience, I decided to give myself the chance to further study and explore Geometric Deep Learning and Shape Analysis, with the goal of contributing to this community through my work.  
-For this reason I'm **Looking for a PhD opportunity!**
+I am also one of the founders and maintainers of [GeomFum](https://github.com/3diglab/geomfum), a Python open-source package for spectral geometry processing.
+If you’d like to collaborate or simply chat about research, **don’t hesitate to reach out!!**
