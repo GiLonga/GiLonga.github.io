@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: "<strong>Looking for a PhD opportunity</strong>"
+subtitle: "<strong>PhD student at TU Wien</strong>"
 
 profile:
   align: left
