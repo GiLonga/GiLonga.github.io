@@ -407,6 +407,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/The_wind_knows/";
+            },},{id: "books-l-39-adversaire",
+          title: 'L&amp;#39; adversaire',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/adversaire/";
             },},{id: "books-here-i-am",
           title: 'Here I am',
           description: "",
